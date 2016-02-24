@@ -1,0 +1,25 @@
+dependencies: \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/CCRef.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/ccConfig.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCBool.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCInteger.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/CCConsole.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/ccMacros.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/CCStdC.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/ios/CCStdC-ios.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/ccRandom.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/platform/CCCommon.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCFloat.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCDouble.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCString.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/ccCArray.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCDictionary.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/base/uthash.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../cocos/deprecated/CCSet.h

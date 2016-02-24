@@ -1,0 +1,25 @@
+dependencies: \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.cpp \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btConvexCast.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btIDebugDraw.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btMinkowskiSumShape.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexInternalShape.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btAabbUtil2.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btPointCollector.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btTransformUtil.h

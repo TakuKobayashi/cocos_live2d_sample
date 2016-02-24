@@ -1,0 +1,20 @@
+dependencies: \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /usr/local/workspace/cocos_workspace/live2d_samples/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h
